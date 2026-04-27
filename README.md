@@ -7,7 +7,14 @@ This is a smart door locking system project created using Arduino Uno, 4x3 Keypa
 * Real-time LCD feedback.
 * Automatic servo motor rotation for locking/unlocking.
 * Custom keypad logic without external libraries (for compatibility).
+# Arduino Based Password Door Lock System
 
+এটি একটি পাসওয়ার্ড ভিত্তিক স্মার্ট লক সিস্টেম... (এক লাইনের বর্ণনা)
+
+![Circuit Diagram](Password_door_lock_Schematic.png)
+
+## বৈশিষ্ট্য (Features)
+...
 ## Components Used
 * Arduino Uno
 * 16x2 LCD Display (I2C/Parallel)
